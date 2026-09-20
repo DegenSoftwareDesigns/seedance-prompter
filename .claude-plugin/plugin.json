@@ -1,0 +1,6 @@
+{
+  "name": "seedance-prompter",
+  "version": "0.1.0",
+  "description": "Sistema de skills para redactar prompts de video para Seedance 2.5: un esqueleto base compartido (seedance-core) mas variantes de estilo visual (cine, publicidad, anime, docuficcion) que se apoyan en el mismo para producir prompts en ingles listos para copiar.",
+  "keywords": ["seedance", "video-generation", "prompt-engineering", "ai-video", "bytedance"]
+}
